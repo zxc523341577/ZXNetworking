@@ -1,0 +1,16 @@
+PODS:
+  - ZXNetworking (0.1.0)
+
+DEPENDENCIES:
+  - ZXNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  ZXNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZXNetworking: a082a9cc251cb89a6097a5a46fe821fd1aa4b313
+
+PODFILE CHECKSUM: 1bc107f7268a375fda44530bd32581877bc0fbe6
+
+COCOAPODS: 1.9.1
